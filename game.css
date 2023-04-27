@@ -1,0 +1,62 @@
+#stage {
+    width: 700px;
+    height: 400px;
+    position: relative;
+}
+#background {
+    width: 400px; 
+    height: 400px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#cannon {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+    top: 270px;
+    left: 140px;
+}
+#missile {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    position: absolute;
+    top: 240px;
+    left: 145px;
+}
+#alien {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    position: absolute;
+   /*  top: 20px;
+    left: 80px; */
+}
+section {
+    position: relative;
+}
+/* p {
+    position: absolute;
+    left: 300px;
+}
+#inputX {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+}
+#inputY {
+    position: absolute;
+    left: 500px;
+    top: 50px;
+}
+#btn {
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    cursor: pointer;
+}
+
+ */
